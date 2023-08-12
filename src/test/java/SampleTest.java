@@ -15,6 +15,8 @@ public class SampleTest {
         driver.quit();
         System.out.println("Execution complete");
         System.out.println("Second Commit");
+        System.out.println("Forth Commit");
+
 
 
 
