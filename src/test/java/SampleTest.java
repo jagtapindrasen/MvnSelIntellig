@@ -17,6 +17,8 @@ public class SampleTest {
         System.out.println("Second Commit");
         System.out.println("Forth Commit");
 
+        System.out.println("Feature branch1 Commit");
+        System.out.println("Feature branch2 Commit");
 
 
 
