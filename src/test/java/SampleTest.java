@@ -19,6 +19,8 @@ public class SampleTest {
 
         System.out.println("Feature branch1 Commit");
         System.out.println("Feature branch2 Commit");
+        System.out.println("Feature branch3 Ammend Commit");
+        System.out.println("Delete a commit");
 
 
 
