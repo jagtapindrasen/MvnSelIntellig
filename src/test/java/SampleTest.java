@@ -14,6 +14,8 @@ public class SampleTest {
         Thread.sleep(3000);
         driver.quit();
         System.out.println("Execution complete");
+        System.out.println("Second Commit");
+
 
 
     }
